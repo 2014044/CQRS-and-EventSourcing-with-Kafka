@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {}
+    "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+    "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectUniqueName": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\obj\\",
+        "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "packagesPath": "C:\\Users\\Ilsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ilsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,20 +69,20 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {
+    "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+        "projectUniqueName": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
         "projectName": "Post.Cmd.Api",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\obj\\",
+        "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+        "packagesPath": "C:\\Users\\Ilsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ilsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,24 +91,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
               },
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
               },
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Common\\Post.Common.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Common\\Post.Common.csproj"
               }
             }
           }
@@ -156,20 +154,20 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+    "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "projectUniqueName": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
         "projectName": "Post.Cmd.Domain",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\obj\\",
+        "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ilsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ilsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -178,18 +176,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Common\\Post.Common.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Common\\Post.Common.csproj"
               }
             }
           }
@@ -223,20 +220,20 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+    "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
         "projectName": "Post.Cmd.Infrastructure",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\obj\\",
+        "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Ilsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ilsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -245,18 +242,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
               }
             }
           }
@@ -304,20 +300,20 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
+    "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectUniqueName": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Common\\Post.Common.csproj",
         "projectName": "Post.Common",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Common\\Post.Common.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\SM-Post\\Post.Common\\obj\\",
+        "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "packagesPath": "C:\\Users\\Ilsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\SM-Post\\Post.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ilsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -326,15 +322,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Documents\\MachKnow Soft\\CQRS Course\\New folder\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Ilsa's Data\\MachKnow Soft\\CQRS\\Microservices Project\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               }
             }
           }
